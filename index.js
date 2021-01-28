@@ -18,3 +18,10 @@ function nowServing(katzDeliLine) {
     return `Currently serving ${katzDeliLine.shift()}.`;
   }
 }
+
+function currentLine(katzDeliLine) {
+  var line = [];
+  for (let i = 0; i < katzDeliLine.length; i++) {
+    line.push()
+  }
+}
